@@ -1,0 +1,14 @@
+IPO-Distribution-Network/
+│
+├── data/                  # Store datasets
+│   ├── raw/
+│   └── processed/
+├── src/                   # Source code
+│   ├── models/            # Model architectures
+│   ├── optimizer/         # Optimization algorithms
+│   └── utils/             # Helper functions
+├── notebooks/             # Jupyter Notebooks for experiments
+├── results/               # Output results, plots
+├── requirements.txt
+├── main.py                # Entry point
+└── README.md
